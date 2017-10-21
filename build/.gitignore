@@ -1,16 +1,2 @@
-/AbsoluteEncoder.class
-/Constants$Steering.class
-/Constants.class
-/GearIntake.class
-/Gyro.class
-/Robot.class
-/RobotMap.class
-/Shooter.class
-/Swerve$Vector.class
-/Swerve.class
-/SwerveModule.class
-/Vision.class
-/Winch.class
 /com/
-/commands/
 /org/
