@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry excluding="org/usfirst/frc/team1533/robot/" kind="src" path="src"/>
-	<classpathentry kind="src" path="src/org/usfirst/frc/team1533/robot"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="dist/FRCUserProgram.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="build"/>
